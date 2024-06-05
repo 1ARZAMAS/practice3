@@ -1,5 +1,3 @@
-/*Необходимо реверсировать слова в строке, не изменяя порядок слов.*/
-
 #include <iostream>
 #include <algorithm>
 #include <string>
